@@ -1,2 +1,2 @@
 # software_kaburlu
-programming tips
+programming Lang
